@@ -1,10 +1,10 @@
-# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# *Awesome Hacktoberfest 2020* [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
+-> We present a curated list of awesome **Hacktoberfest 2020** repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
-> Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
+-> Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contributing to the environment and a sustainable future? [Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) so you can plant a tree! 🌱
 
-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
+-> Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
 ![Logo](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 
